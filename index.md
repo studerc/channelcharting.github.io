@@ -83,6 +83,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 * F. Euchner, P. Stephan, M. Gauger, S. Dörner, S. ten Brink, "<a href="https://arxiv.org/abs/2206.09774">Improving Triplet-Based Channel Charting on Distributed Massive MIMO Measurements</a>," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2022
 
+* L. Le Magoarou, T. Yassine, S. Paquelet, M. Crussiere, "<a href="https://hal.archives-ouvertes.fr/hal-03882861/document">Channel Charting Based Beamforming</a>," 56th Asilomar Conference on Signals, Systems, and Computers, Oct. 2022
+
 
 ## Tutorials
 
